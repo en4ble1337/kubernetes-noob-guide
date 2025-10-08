@@ -1024,6 +1024,8 @@ kubectl run -it --rm debug --image=busybox --restart=Never -- nslookup kubernete
 
 ---
 
-**Version**: Kubernetes v1.29.1 | Ubuntu 22.04 | containerd runtime
+## Credits
+
+Based of Anthony from Centino Systems
 
 **Last Updated**: October 2025
