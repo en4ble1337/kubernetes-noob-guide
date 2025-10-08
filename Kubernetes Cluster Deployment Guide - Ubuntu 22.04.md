@@ -1179,6 +1179,8 @@ kubectl delete -f deployment.yaml
 
 ---
 
-**Version**: Kubernetes v1.29.1 | Ubuntu 22.04 | containerd runtime
+## Credits
+
+- Extracted from Anthony @ Nocentino - thank You
 
 **Last Updated**: October 2025
