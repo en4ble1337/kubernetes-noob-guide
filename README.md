@@ -2,8 +2,10 @@
 
 A beginner-friendly guide to understanding what runs in a Kubernetes cluster and why.
 
-## Skip and go to step by step guide
-https://github.com/en4ble1337/kubernetes-noob-guide/blob/main/Kubernetes%20Cluster%20Deployment%20Guide%20-%20Ubuntu%2022.04.md
+## Skip and go to the guide
+
+**Step by Step guide**: https://github.com/en4ble1337/kubernetes-noob-guide/blob/main/Kubernetes%20Cluster%20Deployment%20Guide%20-%20Ubuntu%2022.04.md
+
 
 ## Table of Contents
 
